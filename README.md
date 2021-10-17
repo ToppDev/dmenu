@@ -26,3 +26,4 @@ sudo make clean install
 - [alpha](https://tools.suckless.org/dmenu/patches/alpha/)
 - [mouse-support](https://tools.suckless.org/dmenu/patches/mouse-support/)
 - [password](https://tools.suckless.org/dmenu/patches/password/)
+- [reject-no-match](https://tools.suckless.org/dmenu/patches/reject-no-match/)
