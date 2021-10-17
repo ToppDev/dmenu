@@ -25,3 +25,4 @@ sudo make clean install
 - [allow-color-font](https://tools.suckless.org/dmenu/patches/allow-color-font/)
 - [alpha](https://tools.suckless.org/dmenu/patches/alpha/)
 - [mouse-support](https://tools.suckless.org/dmenu/patches/mouse-support/)
+- [password](https://tools.suckless.org/dmenu/patches/password/)
