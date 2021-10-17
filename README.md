@@ -21,3 +21,5 @@ sudo make clean install
 ```
 
 ## Patches applied
+
+- [allow-color-font](https://tools.suckless.org/dmenu/patches/allow-color-font/)
