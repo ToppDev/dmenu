@@ -27,5 +27,6 @@ sudo make clean install
 - [mouse-support](https://tools.suckless.org/dmenu/patches/mouse-support/)
 - [password](https://tools.suckless.org/dmenu/patches/password/)
 - [preselect](https://tools.suckless.org/dmenu/patches/preselect/)
+- [printindex](https://tools.suckless.org/dmenu/patches/printindex/)
 - [reject-no-match](https://tools.suckless.org/dmenu/patches/reject-no-match/)
 - [xresources](https://tools.suckless.org/dmenu/patches/xresources/) (modified version by [Luke Smith](https://github.com/LukeSmithxyz/dmenu))
