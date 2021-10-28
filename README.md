@@ -29,4 +29,3 @@ sudo make clean install
 - [preselect](https://tools.suckless.org/dmenu/patches/preselect/)
 - [printindex](https://tools.suckless.org/dmenu/patches/printindex/)
 - [reject-no-match](https://tools.suckless.org/dmenu/patches/reject-no-match/)
-- [xresources](https://tools.suckless.org/dmenu/patches/xresources/) (modified version by [Luke Smith](https://github.com/LukeSmithxyz/dmenu))
